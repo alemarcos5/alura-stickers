@@ -21,9 +21,9 @@ O código implementado neste projeto está retornando as imagens da API da NASA,
 - Foco! Dedique-se ao máximo para atngir seus objetivos;
 - Busque ajuda com pessoas com os mesmos interesses que os seus;
 
-<h4> 
+<h3> 
     :raised_hands:  Agradecimentos  :raised_hands:
-</h4>
+</h3>
 Agradeço à equipe da Alura quando à dedicação em especial ao Paulo Silveira, Alexandre Aquiles e a Jaqueline Oliveira! Vocês são demais! E ao pessoal que participou ativamente da Imersão no Discord.
 
 
