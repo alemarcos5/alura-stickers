@@ -1,4 +1,4 @@
-#Alura-stickers
+<h1>Alura-stickers</h1>
 
 Projeto criado acompanhando o evento "Imarsão Java" promovido pela Alura.
 Em 5 aulas foram desenvolvidos este projeto, e o projeto "Linguagens API" que encontra-se neste link:
