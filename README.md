@@ -1,6 +1,6 @@
 <h1>Alura-stickers</h1>
 
-Projeto criado acompanhando o evento "Imarsão Java" promovido pela Alura.
+Projeto criado acompanhando o evento "Imersão Java" promovido pela Alura.
 Em 5 aulas foram desenvolvidos este projeto, e o projeto "Linguagens API" que encontra-se neste link:
 Neste projetos consumimos algumas APIs, onde retornamaos uma lista de objetos com "title" e "imagem". Com base nas imagens retornadas Escrevíamos algo pertinentes nas imagens para gerar stickers. 
 O código implementado neste projeto está retornando as imagens da API da NASA, que retorna alguns atributos, dentre eles:
@@ -15,16 +15,18 @@ O código implementado neste projeto está retornando as imagens da API da NASA,
 ![Imagem com o título "Firefall by moonlight" criada a partir da chamada de API](https://raw.githubusercontent.com/alemarcos5/alura-stickers/master/saida/Firefall%20by%20Moonlight.png)
 
 
-## Folder Structure
+## Lições aprendidas
 
-The workspace contains two folders by default, where:
+- Não é fácil encontrar tempo em meio à tantos compromissos do dia a dia para aprender algo novo;
+- Foco! Dedique-se ao máximo para atngir seus objetivos;
+- Busque ajuda com pessoas com os mesmos interesses que os seus;
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+<h4> 
+    :raised_hands:  Agradecimentos  :raised_hands:
+</h4>
+Agradeço à equipe da Alura quando à dedicação em especial ao Paulo Silveira, Alexandre Aquiles e a Jaqueline Oliveira! Vocês são demais! E ao pessoal que participou ativamente da Imersão no Discord.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
 
 <h1 align="center"> 
     :construction:  Projeto em construção  :construction:
